@@ -1,0 +1,8 @@
+streamlit==1.28
+google-generativeai
+textblob
+pandas
+matplotlib
+pyngrok
+python-dotenv
+seaborn
